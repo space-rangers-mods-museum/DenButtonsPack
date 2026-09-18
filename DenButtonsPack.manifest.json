@@ -22,8 +22,9 @@
   ],
   "exhibit_archive": {
     "path": "DenButtonsPack.zip",
-    "size": 67935,
-    "sha256": "6b97d42cee90abcdd7e3c2af01a0d2fd65f5d892aeb9b1ef1f3374a9906c4847",
+    "size": 74751,
+    "sha256": "66326d54edb6fa7de68a1d45f75e58ec0c3f9212717bb9d0561c97ac33d76e85",
+    "root": "Mods/Den/DenButtonsPack",
     "entries": 142
   },
   "files": [

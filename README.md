@@ -196,7 +196,7 @@ acquire:
 | DATA/buttons/yellow/plus/N.gi    | b2f85172eb6e02ff1808490654ada8717822e0d5b6a2db6451c428aa4ed42c48 |
 | ModuleInfo.txt                   | 1c196d32c12b5ba472f8dda6e828c17e873c68a2726b967c3554bb3c531a504d |
 
-> Final archive: [`DenButtonsPack.zip`](https://github.com/space-rangers-mods-museum/DenButtonsPack/releases/download/v1.0.0/DenButtonsPack.zip) · SHA-256 `6b97d42cee90abcdd7e3c2af01a0d2fd65f5d892aeb9b1ef1f3374a9906c4847`
+> Final archive: [`DenButtonsPack.zip`](https://github.com/space-rangers-mods-museum/DenButtonsPack/releases/download/v1.0.0/DenButtonsPack.zip) · SHA-256 `66326d54edb6fa7de68a1d45f75e58ec0c3f9212717bb9d0561c97ac33d76e85`
 
 ---
 
