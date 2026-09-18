@@ -1,5 +1,5 @@
 exhibit: DenButtonsPack
-github_id: DenButtonsPack    # the mod is REDUX-only (Section Den), so no redux__ prefix is needed
+github_id: DenButtonsPack    # the mod ships in one pack only, so it needs no pack suffix
 
 # internal — input for extract_exhibit.py, NOT shown on the card
 # The mod ships inside the REDUX pack: the base installer first, the fixes overlay on top
