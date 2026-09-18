@@ -1,0 +1,37 @@
+exhibit: DenButtonsPack
+github_id: DenButtonsPack    # the mod is REDUX-only (Section Den), so no redux__ prefix is needed
+
+# internal — input for extract_exhibit.py, NOT shown on the card
+# The mod ships inside the REDUX pack: the base installer first, the fixes overlay on top
+# (a later source OVERWRITES an earlier one). The pack is already unpacked under
+# origin_artefact/unpacked/redux/, so extract_exhibit.py satisfies these sources from that tree
+# and opens neither the .exe nor the .7z — the paths are kept because that is how the pack is
+# installed.
+source:
+  - kind: exe
+    path: C:/Users/ringill/repo/space_rangers/origin_artefact/downloaded/redux/Universe_Redux_1.6.0.exe
+    target: Mods/Den/DenButtonsPack
+  - kind: 7z
+    path: C:/Users/ringill/repo/space_rangers/origin_artefact/downloaded/redux/Universe Redux Fixes.7z
+    target: Mods/Den/DenButtonsPack
+
+# public — acquisition route, rendered in the card README.md
+acquire:
+  - ref: https://steamcommunity.com/sharedfiles/filedetails/?id=851524240
+    note: "[2026] Модификации | Universe и другие мод-паки"
+    date: 2026-08-01
+  - ref: https://discord.com/invite/SY4aDtDxET
+    note: ПБ Свободная Бухта
+    date:
+  - ref: https://discord.gg/a8zBNyJWv
+    note: "# скачать-моды"
+    date:
+  - ref: https://discord.com/channels/843886159582724117/843886159851683853/1342049852032417814
+    note: "Space Rangers Universe Redux"
+    date:
+  - ref: https://drive.google.com/drive/folders/1rRi6q03MnxaFiVgbnRmCJn2ibJnGSb9I
+    note: Установочные файлы
+    date: 2026-05-26
+  - ref: https://drive.google.com/drive/folders/1PVYDEXzjWLV-1s-afrjeF6CxBwyZcRar
+    note: Фиксы (нужны обязательно)
+    date: 2026-09-17
